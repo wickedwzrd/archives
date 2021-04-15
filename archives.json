@@ -40,11 +40,11 @@
   "search": ["biz", "cgl", "ck", "diy", "fa", "g", "ic", "jp", "lit", "sci", "tg", "vr"]
 }, {
   "uid": 12,
-  "name": "yuki",
-  "domain": "yuki.la",
+  "name": "wakarimasen",
+  "domain": "archive.wakarimasen.moe",
   "http": false,
   "https": true,
-  "software": "fuuka",
+  "software": "foolfuuka",
   "boards": ["gif"],
   "files": ["gif"]
 }, {
